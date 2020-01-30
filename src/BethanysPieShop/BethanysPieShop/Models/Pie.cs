@@ -10,7 +10,7 @@
 
         public string LongDescription { get; set; }
 
-        public string AlergyInformation { get; set; }
+        public string AllergyInformation { get; set; }
 
         public decimal Price { get; set; }
 
