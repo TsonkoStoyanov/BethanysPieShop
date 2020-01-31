@@ -19,6 +19,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Update="Views\Pie\Details.cshtml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Content>
     <Content Update="Views\Pie\List.cshtml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
