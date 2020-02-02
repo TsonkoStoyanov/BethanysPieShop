@@ -11,5 +11,5 @@
         public string ShoppingCartId { get; set; }
 
 
-    } 
+    }
 }
